@@ -1,5 +1,14 @@
 h1{
 	font-family:Ariel;
-	font-size:50px;
+	font-size:120px;
 	color:#FF0080;
+	text-align: center;
+	margin:0px 0px 0px 0px;
+}
+#pencil_logo{
+	width:120px;
+	height:120px;
+}
+li{
+	font-size: 30px;
 }
